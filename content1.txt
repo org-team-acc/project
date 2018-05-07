@@ -1,0 +1,8 @@
+  
+  
+  
+  PRDXN » Prudent Reliable Discriminating Xenodochial-Person Noble
+  
+  1) Diff between Id and Class?
+2) Diff between margin and padding?
+3) And some questions based on machine test  
